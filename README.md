@@ -7,12 +7,6 @@ I explored the raw data from the Flying Etiquette CSV offered by FiveThirtyEight
 I created this visualization with Data Wrapper through pulling data from the Flying Etiquette CSV and making a pivot table to extract insights. This table was what was analyized:
 
 | Is it rude to move to an unsold seat on a plane? | COUNTA of RespondentID |
-| Yes, very rude | 37 |
-| Yes, somewhat rude | 128 |
-| No, not rude at all | 690 |
-| Grand Total | 855 |
-
-| Is it rude to move to an unsold seat on a plane? | COUNTA of RespondentID |
 | ----------- | ----------- |
 | Yes, very rude | 37 |
 | Yes, somewhat rude | 128 |
